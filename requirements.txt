@@ -1,0 +1,12 @@
+dotenv
+langchain
+langgraph
+langchain-community
+langchain-experimental
+langchain-ollama
+langchain-milvus
+pypdf
+fastembed
+transformers 
+accelerate
+ipywidgets
